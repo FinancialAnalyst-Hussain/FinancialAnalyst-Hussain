@@ -12,9 +12,7 @@
 - 📈 **Fundraising Guidance**: Debt and equity structuring.  
 
 ### Portfolio  
-- **[Model 1: DCF Analysis for a Startup](link-to-file)**  
-- **[Model 2: Housing Project Financial Plan](link-to-file)**  
-- **[Model 3: Twitter Acquisition Valuation](link-to-file)**  
+https://drive.google.com/drive/folders/1GiHwrDr-C9PWzGCJ55-qVBmfd22RWXZp
 
 ### Get in Touch  
 - 💼 [LinkedIn] www.linkedin.com/in/hussain-muhammad-01b60a209
