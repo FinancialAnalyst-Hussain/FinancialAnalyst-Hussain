@@ -16,4 +16,4 @@ https://drive.google.com/drive/folders/1GiHwrDr-C9PWzGCJ55-qVBmfd22RWXZp
 
 ### Get in Touch  
 - 💼 [LinkedIn] www.linkedin.com/in/hussain-muhammad-01b60a209
-- 📧 [Email Me](mailto:YourEmail@example.com)
+- 📧 [Email Me] hussain.muhammad1579@gmail.com
